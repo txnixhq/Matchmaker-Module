@@ -1,4 +1,4 @@
-# Matchmaker-Module
+# Employee-Student Matchmaker-Module for Internship Program
 ## Custom Matching Logic: 
 Engineered a sophisticated matching algorithm that considers both student and employer preferences. The script intelligently resolves conflicts and efficiently allocates positions based on a combination of first choices and subsequent preferences.
 
